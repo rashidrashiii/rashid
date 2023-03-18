@@ -1397,3 +1397,8 @@ img {
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+.send-button{
+    font-size: 16px;
+    font-weight: 500;
+}
